@@ -121,7 +121,7 @@ function echo_nav($list){
                 <div class="rwo">
                     <div class="col-md-12">
                         <p>
-                            自豪的采用 <a href="https://github.com/qu5/nav">简单导航</a> 构建
+                            自豪地采用 <a href="https://github.com/qu5/nav">🍄蘑菇导航</a> 构建
                         </p>
                     </div>
                 </div>
