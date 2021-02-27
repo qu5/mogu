@@ -417,8 +417,6 @@ input::-webkit-input-placeholder {
 #get-top {
     width: 40px;
     height: 40px;
-    background-color: rgba(255, 255, 255, .4);
-    backdrop-filter: blur(4px);
     color: #FFF;
     position: fixed;
     right: 15px;
@@ -539,58 +537,6 @@ input::-webkit-input-placeholder {
 }
 
 @media (min-width: 992px) {
-    header {
-        height: 60px;
-        border-bottom: 1px solid #e8e8e8;
-    }
-    header .main {
-        padding: 0 22px;
-    }
-    header .logo {
-        float: left;
-        font-size: 22px;
-        margin: 0;
-        font-weight: 400;
-        border: none;
-        padding-top: 2px !important;
-    }
-    header .logo a {
-        display: block;
-        line-height: 50px;
-        color: #484848;
-        font-weight: 400;
-    }
-    header .logo img {
-        width: 30px;
-        vertical-align: -10px;
-    }
-    header .nav {
-        float: left;
-        margin-left: 25px;
-        padding-top: 0px;
-        height: 100%;
-        display: block;
-        overflow: hidden;
-        position: static;
-        width: auto;
-        box-shadow: none;
-        background: rgba(255, 255, 255, 0);
-    }
-    header .nav li {
-        float: left;
-        font-size: 16px;
-    }
-    header .nav a {
-        display: block;
-        line-height: 59px;
-        color: #959595;
-        padding: 0 18px;
-        border-bottom: 1px solid #e8e8e8;
-    }
-    header .nav a:hover {
-        border-color: #459df5;
-        color: #459df5;
-    }
     .left-bar {
         height: 100%;
         background: #FFF;
@@ -670,9 +616,6 @@ input::-webkit-input-placeholder {
 }
 
 @media (min-width: 1200px) {
-    header .nav a {
-        padding: 0 25px;
-    }
     .content-box {
         padding: 0 20px;
     }
