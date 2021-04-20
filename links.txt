@@ -16,7 +16,7 @@ https://translate.google.cn
 endbox
 
 box
-资讯
+资讯学习
 far fa-newspaper
 IT之家
 https://www.ithome.com
@@ -37,15 +37,6 @@ http://v.qq.com/
 http://www.bilibili.com/
 Youtube
 https://www.youtube.com/
-endbox
-
-box
-社交社区
-fas fa-user-friends
-v2ex
-http://www.v2ex.com/
-tumblr
-https://www.tumblr.com/
 endbox
 
 box
