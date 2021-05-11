@@ -44,8 +44,6 @@ box
 fas fa-user-friends
 v2ex
 http://www.v2ex.com/
-主机交流
-https://www.hostloc.com/
 tumblr
 https://www.tumblr.com/
 endbox
