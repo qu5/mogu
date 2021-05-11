@@ -365,18 +365,8 @@ input::-webkit-input-placeholder {
 }
 
 .card-link:hover {
-    transform: translateY(-5px);
-    -ms-transform: translateY(-5px);
-    /* IE 9 */
-    -moz-transform: translateY(-5px);
-    /* Firefox */
-    -webkit-transform: translateY(-5px);
-    /* Safari  Chrome */
-    -o-transform: translateY(-5px);
-    /* Opera */
+    transform: translateY(-2px);
     box-shadow: 4px 4px 10px rgba(204, 204, 204, 0.7);
-    -moz-box-shadow: 4px 4px 10px rgba(204, 204, 204, 0.7);
-    /* Firefox */
 }
 
 .card-tit {
