@@ -17,7 +17,7 @@ function echo_link($list){
     for ($x = 0; $x <= count($list); $x++) {
         if ($list[$x]=="box"){
             $x++;
-            echo '<section class="item card-box" id="row-1">
+            echo '<section class="item card-box">
                 <div class="container-fluid">
                     <div class="row">
                         <div class="item-tit">
